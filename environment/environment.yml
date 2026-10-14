@@ -1,0 +1,7 @@
+name: croparray_pip_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - netcdf4
+prefix: C:\Users\AdamC\anaconda\envs\croparray_pip_env
